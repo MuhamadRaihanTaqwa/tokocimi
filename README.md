@@ -2,8 +2,6 @@
 
 Proyek ini adalah *landing page* responsif yang dibangun untuk [Nama Proyek Anda, misalnya: Toko Cimi] menggunakan Next.js dan Tailwind CSS. Tujuannya adalah untuk menampilkan produk utama dan informasi toko secara menarik.
 
-[Tambahkan screenshot/gambar utama proyek Anda di sini, misalnya: ![Screenshot Landing Page Tocimi](public/images/hero-model.jpg)]
-
 ---
 
 ## ✨ Fitur Utama
