@@ -1,3 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tambahkan font custom jika ada, atau biarkan kosong selain 3 baris di atas */
+
+/* Contoh: Menghilangkan margin default body */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* ... CSS global lainnya ... */
 @import "tailwindcss";
 
 :root {

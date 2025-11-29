@@ -1,7 +1,14 @@
-import type { NextConfig } from "next";
+import { NextConfig } from 'next';
 
+/** @type {import('next').NextConfig} */
 const nextConfig: NextConfig = {
-  /* config options here */
+  // --- BAGIAN YANG PERLU DITAMBAHKAN/DIUBAH ---
+  compiler: {
+    // Menonaktifkan Turbopack untuk Development Server
+    // Ini adalah solusi sementara untuk masalah error font yang Anda hadapi.
+    turbo: false,
+  },
+  // ---------------------------------------------
 };
 
 export default nextConfig;
