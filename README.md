@@ -1,6 +1,6 @@
 # 🐈 Tocimi Landing Page
 
-Proyek ini adalah *landing page* responsif yang dibangun untuk [Nama Proyek Anda, misalnya: Toko Cimi] menggunakan Next.js dan Tailwind CSS. Tujuannya adalah untuk menampilkan produk utama dan informasi toko secara menarik.
+Proyek ini adalah *landing page* responsif yang dibangun untuk TokoCimi menggunakan Next.js dan Tailwind CSS. Tujuannya adalah untuk menampilkan produk utama dan informasi toko secara menarik.
 
 ---
 
